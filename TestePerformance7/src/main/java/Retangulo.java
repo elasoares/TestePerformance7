@@ -13,8 +13,6 @@ public class Retangulo {
     public  double retornarArea(){
         return base * altura;
     }
-    public  double retornarPerimetro(){
-        return 2 - (base + altura);
-    }
+  
 
 }
